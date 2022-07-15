@@ -73,8 +73,8 @@ int num = 10;
 ## 이미지
 
 ![image](https://picsum.photos/200/300)
-![sample](C:\Users\multicampus\Desktop\sample.jpg)
-![sample](.\md-images\sample.jpg)
+![sample](gch04407\test1\sample.jpg)
+![sample](.\tes1\sample.jpg)
 
 ---
 
